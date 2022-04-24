@@ -2,6 +2,7 @@ package search;
 
 import java.util.Arrays;
 
+// 코딩 테스트 연습 - 정렬 - K번째 수
 public class KthNumber {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
