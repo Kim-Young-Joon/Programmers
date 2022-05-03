@@ -2,6 +2,7 @@ package search;
 
 import java.util.Arrays;
 
+// 코딩 테스트 연습 - 정렬 - H 인덱스
 public class HIndex {
     public int solution(int[] citations) {
         int answer = 0;
