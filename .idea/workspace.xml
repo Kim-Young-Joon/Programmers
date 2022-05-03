@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="H 인덱스">
-      <change afterPath="$PROJECT_DIR$/src/hash/Marathon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="완주하지 못한 선수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651578737908</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="완주하지 못한 선수">
+      <created>1651580993567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651580993567</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +218,7 @@
     <MESSAGE value="H-index" />
     <MESSAGE value="숫자 문자열과 영단어" />
     <MESSAGE value="H 인덱스" />
-    <option name="LAST_COMMIT_MESSAGE" value="H 인덱스" />
+    <MESSAGE value="완주하지 못한 선수" />
+    <option name="LAST_COMMIT_MESSAGE" value="완주하지 못한 선수" />
   </component>
 </project>
