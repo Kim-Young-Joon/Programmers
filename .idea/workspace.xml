@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="완주하지 못한 선수">
-      <change afterPath="$PROJECT_DIR$/src/hash/PhoneNumberList.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="전화번호 목록">
+      <change afterPath="$PROJECT_DIR$/src/hash/ClothesComb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +45,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.PhoneNumberList">
-    <configuration name="BiggestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.BiggestNum" />
+  <component name="RunManager" selected="Application.ClothesComb">
+    <configuration name="ClothesComb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.ClothesComb" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClothesComb" />
         <item itemvalue="Application.PhoneNumberList" />
         <item itemvalue="Application.Marathon" />
         <item itemvalue="Application.NumString" />
         <item itemvalue="Application.HIndex" />
-        <item itemvalue="Application.BiggestNum" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651585066318</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="전화번호 목록">
+      <created>1651754779285</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651754779285</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +236,7 @@
     <MESSAGE value="숫자 문자열과 영단어" />
     <MESSAGE value="H 인덱스" />
     <MESSAGE value="완주하지 못한 선수" />
-    <option name="LAST_COMMIT_MESSAGE" value="완주하지 못한 선수" />
+    <MESSAGE value="전화번호 목록" />
+    <option name="LAST_COMMIT_MESSAGE" value="전화번호 목록" />
   </component>
 </project>
