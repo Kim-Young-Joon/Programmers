@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="소수 만들기">
-      <change afterPath="$PROJECT_DIR$/src/bruteForce/SampleTest.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="모의고사">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Budget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bruteForce/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bruteForce/SampleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +46,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SampleTest">
-    <configuration name="ClothesComb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.ClothesComb" />
+  <component name="RunManager" selected="Application.Budget">
+    <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Budget" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="codingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marathon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Marathon" />
+    <configuration name="ClothesComb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.ClothesComb" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Budget" />
         <item itemvalue="Application.SampleTest" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.ClothesComb" />
         <item itemvalue="Application.PhoneNumberList" />
-        <item itemvalue="Application.Marathon" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651914389654</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="모의고사">
+      <created>1652020161679</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652020161679</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +261,7 @@
     <MESSAGE value="전화번호 목록" />
     <MESSAGE value="위장" />
     <MESSAGE value="소수 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 만들기" />
+    <MESSAGE value="모의고사" />
+    <option name="LAST_COMMIT_MESSAGE" value="모의고사" />
   </component>
 </project>
