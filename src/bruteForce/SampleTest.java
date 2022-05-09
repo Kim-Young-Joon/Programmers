@@ -3,6 +3,7 @@ package bruteForce;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// 모의고사
 public class SampleTest {
     public int[] solution(int[] answers) {
         int[] answer = {};
