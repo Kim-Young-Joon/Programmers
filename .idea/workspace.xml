@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="예산">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/DotProduct.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="내적">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/IntegerManage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.DotProduct">
+  <component name="RunManager" selected="Application.IntegerManage">
     <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.Budget" />
       <module name="Programmers" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClothesComb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.ClothesComb" />
+    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.DotProduct" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="codingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.DotProduct" />
+    <configuration name="IntegerManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.IntegerManage" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerManage" />
         <item itemvalue="Application.DotProduct" />
         <item itemvalue="Application.Budget" />
         <item itemvalue="Application.SampleTest" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.ClothesComb" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652082541912</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="내적">
+      <created>1652182650572</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652182650572</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +283,7 @@
     <MESSAGE value="소수 만들기" />
     <MESSAGE value="모의고사" />
     <MESSAGE value="예산" />
-    <option name="LAST_COMMIT_MESSAGE" value="예산" />
+    <MESSAGE value="내적" />
+    <option name="LAST_COMMIT_MESSAGE" value="내적" />
   </component>
 </project>
