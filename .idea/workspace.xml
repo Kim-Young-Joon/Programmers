@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="음양 더하기">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/SumNumber.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="없는 숫자 더하기">
+      <change afterPath="$PROJECT_DIR$/src/greedy/GymSuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SumNumber">
+  <component name="RunManager" selected="Application.GymSuit">
     <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.Budget" />
       <module name="Programmers" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.IntegerManage" />
+    <configuration name="GymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.GymSuit" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteForce.SampleTest" />
+    <configuration name="IntegerManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.IntegerManage" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bruteForce.*" />
+          <option name="PATTERN" value="codingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GymSuit" />
         <item itemvalue="Application.SumNumber" />
         <item itemvalue="Application.IntegerManage" />
         <item itemvalue="Application.DotProduct" />
         <item itemvalue="Application.Budget" />
-        <item itemvalue="Application.SampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652183232420</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="없는 숫자 더하기">
+      <created>1652359242218</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652359242218</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +299,17 @@
     <MESSAGE value="예산" />
     <MESSAGE value="내적" />
     <MESSAGE value="음양 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="음양 더하기" />
+    <MESSAGE value="없는 숫자 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="없는 숫자 더하기" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
