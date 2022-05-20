@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="약수의 개수와 덧셈">
-      <change afterPath="$PROJECT_DIR$/src/hash/BestAlbum.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="베스트 앨범">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Lotto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +40,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.BestAlbum">
+  <component name="RunManager" selected="Application.Lotto">
     <configuration name="BestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.BestAlbum" />
       <module name="Programmers" />
@@ -98,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.SumNumber" />
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Lotto" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lotto" />
         <item itemvalue="Application.BestAlbum" />
         <item itemvalue="Application.Factor" />
         <item itemvalue="Application.DevelopmentFunc" />
         <item itemvalue="Application.GymSuit" />
-        <item itemvalue="Application.SumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +133,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650723194926</updated>
+      <workItem from="1652968821166" duration="634000" />
+      <workItem from="1652969798765" duration="135000" />
+      <workItem from="1653026892009" duration="3789000" />
     </task>
     <task id="LOCAL-00001" summary="K번째 수">
       <created>1650727162227</created>
@@ -298,8 +305,18 @@
       <option name="project" value="LOCAL" />
       <updated>1652881035926</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="베스트 앨범">
+      <created>1652963986478</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652963986479</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -331,7 +348,8 @@
     <MESSAGE value="모의고사" />
     <MESSAGE value="기능개발" />
     <MESSAGE value="약수의 개수와 덧셈" />
-    <option name="LAST_COMMIT_MESSAGE" value="약수의 개수와 덧셈" />
+    <MESSAGE value="베스트 앨범" />
+    <option name="LAST_COMMIT_MESSAGE" value="베스트 앨범" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,6 +357,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
