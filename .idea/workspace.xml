@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="소수 찾기">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/NewID.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="신규 아이디 추천">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/StrBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.NewID">
-    <configuration name="BestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.BestAlbum" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StrBasic">
     <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.Combination" />
       <module name="Programmers" />
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.StrBasic" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrBasic" />
         <item itemvalue="Application.NewID" />
         <item itemvalue="Application.FindPrime" />
         <item itemvalue="Application.Combination" />
         <item itemvalue="Application.Lotto" />
-        <item itemvalue="Application.BestAlbum" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,9 @@
       <workItem from="1653290043325" duration="2391000" />
       <workItem from="1653293952530" duration="366000" />
       <workItem from="1653316595359" duration="566000" />
-      <workItem from="1653379421502" duration="2816000" />
+      <workItem from="1653379421502" duration="3056000" />
+      <workItem from="1653389952253" duration="602000" />
+      <workItem from="1653464022928" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="K번째 수">
       <created>1650727162227</created>
@@ -340,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653292740085</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="신규 아이디 추천">
+      <created>1653382420775</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1653382420775</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +389,8 @@
     <MESSAGE value="로또의 최고 순위와 최저 순위" />
     <MESSAGE value="두 개 뽑아서 더하기" />
     <MESSAGE value="소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 찾기" />
+    <MESSAGE value="신규 아이디 추천" />
+    <option name="LAST_COMMIT_MESSAGE" value="신규 아이디 추천" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
