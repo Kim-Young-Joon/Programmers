@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="카펫">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/ClawCraneGame.java" afterDir="false" />
+    <list default="true" id="86fd54f3-61ea-497f-894c-c861163b3306" name="Changes" comment="크레인 인형뽑기 게임">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Dart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ClawCraneGame">
+  <component name="RunManager" selected="Application.Dart">
     <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteForce.Carpet" />
       <module name="Programmers" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.NewID" />
+    <configuration name="Dart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Dart" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dart" />
         <item itemvalue="Application.ClawCraneGame" />
         <item itemvalue="Application.TTest" />
         <item itemvalue="Application.Carpet" />
         <item itemvalue="Application.StrBasic" />
-        <item itemvalue="Application.NewID" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,9 @@
       <workItem from="1653464022928" duration="565000" />
       <workItem from="1653472510962" duration="1035000" />
       <workItem from="1653478843815" duration="300000" />
-      <workItem from="1653549946190" duration="3679000" />
+      <workItem from="1653549946190" duration="3758000" />
+      <workItem from="1653565345468" duration="588000" />
+      <workItem from="1653646351814" duration="3800000" />
     </task>
     <task id="LOCAL-00001" summary="K번째 수">
       <created>1650727162227</created>
@@ -366,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653473705316</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="크레인 인형뽑기 게임">
+      <created>1653553955770</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1653553955770</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="K번째 수" />
     <MESSAGE value="가장 큰 수" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="H-index" />
@@ -409,7 +417,8 @@
     <MESSAGE value="신규 아이디 추천" />
     <MESSAGE value="문자열 다루기 기본" />
     <MESSAGE value="카펫" />
-    <option name="LAST_COMMIT_MESSAGE" value="카펫" />
+    <MESSAGE value="크레인 인형뽑기 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="크레인 인형뽑기 게임" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
